@@ -80,4 +80,4 @@ sha256sum --check hash256
 When you download software, vendors often publish a checksum (increasingly SHA-256). Hashing your downloaded copy and comparing confirms the file wasn't corrupted in transit or swapped for a malicious version. The same principle underpins file-integrity monitoring tools that alert defenders when critical system files change unexpectedly.
 
 ## Screenshots
-_Add your terminal screenshots here (e.g. `screenshots/md5-ok.png`, `screenshots/md5-failed.png`)._
+
