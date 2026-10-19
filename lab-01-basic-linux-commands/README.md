@@ -5,7 +5,6 @@ Get comfortable navigating a Linux system from the command line using Kali Linux
 
 ## Environment
 - **OS:** Kali Linux (running as a VirtualBox VM)
-- **Login:** default user `kali` / password `kali`
 - **Network:** VirtualBox NAT Network — all addresses shown are **private lab IPs (RFC 1918)** and are not reachable from the public internet.
 
 ## Commands covered
@@ -56,4 +55,4 @@ history                     # reviewed the session's commands
 - Two devices can talk directly only if they share the same network portion of their IP (on a `/24` mask, the first three octets must match) — important later for making sure Kali and target VMs can reach each other.
 
 ## Screenshots
-_Add your terminal screenshots here (e.g. `screenshots/pwd-ls.png`). All addresses shown are private lab IPs, safe to display._
+
