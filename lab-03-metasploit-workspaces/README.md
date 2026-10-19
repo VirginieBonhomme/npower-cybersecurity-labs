@@ -126,4 +126,4 @@ The reconnaissance → research → exploit chain:
 - Service **version numbers** are the bridge from "what's running" to "how do I exploit it." Enumeration is the first and most fundamental offensive-security skill.
 
 ## Screenshots
-_Add terminal screenshots here: the `workspace` list, the `db_nmap` scan completing, the `services` output (the centrepiece), and optionally `vulns`/`notes` and the `db_export` result. All IPs are private lab addresses, safe to show._
+
