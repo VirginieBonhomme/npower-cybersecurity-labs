@@ -11,7 +11,7 @@ All labs are performed in an isolated virtual lab environment (Kali Linux + targ
 
 ## Lab environment
 - **Attacker:** Kali Linux (VirtualBox VM)
-- **Targets:** Metasploitable 2 / Metasploitable 3 and other intentionally vulnerable VMs (introduced in later labs)
+- **Targets:** Metasploitable 2 and other intentionally vulnerable VMs (introduced in later labs)
 - **Networking:** VirtualBox NAT Network, so all VMs share one private subnet
 
 ## Labs
