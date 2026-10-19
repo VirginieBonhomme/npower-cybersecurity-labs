@@ -1,0 +1,16 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Keep screenshots, but ignore large raw captures if you add any
+*.tmp
+
+# Never commit secrets
+*.pem
+*.key
+id_rsa
+id_rsa.*
+*.env
+credentials*
