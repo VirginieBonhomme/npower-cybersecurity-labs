@@ -99,4 +99,3 @@ The textbook steps didn't work out of the box. Working through *why* was the mos
 - Keep SSH **up to date** so weak host-key/kex algorithms aren't offered.
 
 ## Screenshots
-_Add terminal screenshots here: the `[+] Success` brute-force line, the `creds` table showing `msfadmin/msfadmin`, and the SSH login showing the `msfadmin@metasploitable:~$` prompt. All IPs are private lab addresses, safe to show._
